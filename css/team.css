@@ -7,21 +7,22 @@
 }
 
 .team-member-name {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 2%;
 }
 
 .team-heading {
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.111;
-  letter-spacing: 2%;
 }
 
 .team-heading,
 .team-member-name,
 .team-member-role {
   text-align: center;
+  letter-spacing: 0.02;
 }

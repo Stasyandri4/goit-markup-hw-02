@@ -5,6 +5,7 @@
 .nav-link {
   font-weight: 500;
   color: #2e2f42;
+  letter-spacing: 0.02;
 }
 
 .nav-link:hover,
@@ -15,6 +16,7 @@
 .contact-info {
   font-style: normal;
   color: #434455;
+  letter-spacing: 0.02;
 }
 
 .contact-info:hover,
