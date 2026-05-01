@@ -2,8 +2,8 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
-  line-height: 24;
-  letter-spacing: 0.02;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 a {
@@ -21,7 +21,7 @@ ol {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.33;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
   color: #f4f4fd;
 }
 
