@@ -19,3 +19,8 @@
   line-height: inherit;
   letter-spacing: 4%;
 }
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
+}
