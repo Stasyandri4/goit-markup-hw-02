@@ -1,0 +1,27 @@
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-member {
+  background-color: #ffffff;
+}
+
+.team-member-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 2%;
+}
+
+.team-heading {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.111;
+  letter-spacing: 2%;
+}
+
+.team-heading,
+.team-member-name,
+.team-member-role {
+  text-align: center;
+}
